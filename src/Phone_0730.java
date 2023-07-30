@@ -1,4 +1,4 @@
-public class Phone
+public class Phone_0730
 {
     //属性
     String name;//品牌

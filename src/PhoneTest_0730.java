@@ -1,9 +1,9 @@
-public class PhoneTest
+public class PhoneTest_0730
 {
     //创建Phone的对象
     public static void main(String[] args)
     {
-        Phone p1 = new Phone();
+        Phone_0730 p1 = new Phone_0730();
         //同目录下可以直接使用
 
 
